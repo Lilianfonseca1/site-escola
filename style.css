@@ -1,4 +1,18 @@
 header{
     background-color: #2a3b91;
-    color:white
+    display:flex;
+    font-size: 15px;
+justify-content: space-around;
+
+    .imagem-logo{ 
+        width: 50px;
+        height: 50px;
+        margin: 20px;
+        padding: 20px;
+     }
+    
+}
+.lista-cabeçalho{
+    display: flex;
+    width: 50px;
 }
